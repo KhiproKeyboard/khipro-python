@@ -24,8 +24,9 @@ SHOR: Dict[str, str] = {
     "we": "ওয়ে", "fwe": "োয়ে",
 
     "ngo": "ঙ", "nga": "ঙা", "ngi": "ঙি", "ngii": "ঙী", "ngu": "ঙু",
-    "nguff": "ঙ", "nguu": "ঙূ", "nguuff": "ঙ", "ngq": "ঙৃ", "nge": "ঙে",
+    "nguff": "ঙ‌ু", "nguu": "ঙূ", "nguuff": "ঙ‌ূ", "ngq": "ঙৃ", "ngqff": "ঙ‌ৃ", "nge": "ঙে",
     "ngoi": "ঙৈ", "ngw": "ঙো", "ngou": "ঙৌ", "ngae": "ঙ্যা",
+	"ngof": "ঙঅ", "ngaf": "ঙআ", "ngif": "ঙই", "ngiif": "ঙঈ", "nguf": "ঙউ", "nguuf": "ঙঊ", "ngqf": "ঙঋ", "ngef": "ঙএ", "ngoif": "ঙই", "ngwf": "ঙও", "ngouf": "ঙউ", "ngaef": "ঙঅ্যা",
 }
 
 BYANJON: Dict[str, str] = {
